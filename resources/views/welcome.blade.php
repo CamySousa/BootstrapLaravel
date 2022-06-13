@@ -8,8 +8,9 @@
     <script src="{{asset('js/jquery.js')}}"></script>
     <script src="{{asset('js/bootstrap.js')}}"></script>
 </head>
-<body>
+<body class="d-flex justify-content-center align-items-center flex-column vh-100">
+
     <h1>Utilizando Bootstrap</h1>
-    <button class="btn btn-lg btn-sucess">Bootstrap</button>
+    <button class="btn btn-lg btn-success">Bootstrap</button>
 </body>
 </html>
